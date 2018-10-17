@@ -1,6 +1,6 @@
 package testPrj;
 
-public class Main {
+public class MainIt {
 
 	public static void main(String[] args) {
 		System.out.println("Ciao mondo");
